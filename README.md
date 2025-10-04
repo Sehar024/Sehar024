@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Web Developer | Open Source Contributor @ GSSoC’25</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&color=bluevelvet&lines=React+Expert+⚛️;Full+Stack+Developer+🌐;Open+Source+Contributor+🌟;Building+clean+UIs+with+Tailwind+💅" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&color=#A731AD&lines=React+Expert+⚛️;Full+Stack+Developer+🌐;Open+Source+Contributor+🌟;Building+clean+UIs+with+Tailwind+💅" alt="Typing SVG" />
 </p>
 
 I love to build, learn, and explore the world of technology—especially where it intersects with innovation and creativity.
