@@ -23,10 +23,12 @@ I love to build, learn, and explore the world of technology—especially where i
 
 ## 🌟 Skills
 
-- **Frontend:** React, React Native, HTML, CSS, Tailwind CSS, JavaScript
-- **Backend:** Node.js, Express
-- **Other Languages:** Java, C++, C#, Python
-- **Exploring:** AI, ML
+- **Frontend:** React, Next.js, Redux, HTML, CSS, Tailwind CSS, BootStrap, JavaScript, WCAG, SEO
+- **Backend:** Node.js, Express.js, .NET Core, JWT, RestAPI, OAuth
+- **Other Languages:** Java, C++, C#, Python, HTML5, SQL, CSS3, Typescripit
+- **Exploring:** AI, ML, DL
+- **Database & Real-Time:** MongoDB, Firebase, SQL Server,
+- **Dev Tools & Deployment:** Git, Github, Vercel, Netlify, Postman, VsCode, Visual Studio
 
 ---
 
